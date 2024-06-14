@@ -12,7 +12,7 @@
 
 
 
-let platform = '威锋网';
+let platform = '今日头条';
 let count = 20;
 if (typeof $argument !== 'undefined' && $argument !== '') {
   const params = getParams($argument);
