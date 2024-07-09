@@ -2,7 +2,7 @@
 
 #分流名称: TikTok
 #分流作者: blackmatrix7
-#更新时间: 2024-04-30
+#更新时间: 2024-07-05
 #仓库地址: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TikTok/TikTok.list
 
 //***************************************
@@ -26,6 +26,7 @@ HOST-SUFFIX,isnssdk.com,TikTok
 HOST-SUFFIX,muscdn.com,TikTok
 HOST-SUFFIX,musical.ly,TikTok
 HOST-SUFFIX,sgpstatp.com,TikTok
+HOST-SUFFIX,snssdk.com,TikTok
 HOST-SUFFIX,tik-tokapi.com,TikTok
 HOST-SUFFIX,tiktok.com,TikTok
 HOST-SUFFIX,tiktokcdn-us.com,TikTok
